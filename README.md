@@ -1,2 +1,2 @@
 ObjectOrientedProgramming
-heseo_grade2_1
+1st semester of 2nd year
